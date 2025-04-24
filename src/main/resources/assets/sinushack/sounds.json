@@ -1,0 +1,92 @@
+{
+  "keypress": {
+    "sounds": [
+      "sinushack:keypress"
+    ]
+  },
+  "keyrelease": {
+    "sounds": [
+      "sinushack:keyrelease"
+    ]
+  },
+  "uwu": {
+    "sounds": [
+      "sinushack:uwu"
+    ]
+  },
+  "disable": {
+    "sounds": [
+      "sinushack:disable"
+    ]
+  },
+  "enable": {
+    "sounds": [
+      "sinushack:enable"
+    ]
+  },
+  "moan1": {
+    "sounds": [
+      "sinushack:moan1"
+    ]
+  },
+  "moan2": {
+    "sounds": [
+      "sinushack:moan2"
+    ]
+  },
+  "moan3": {
+    "sounds": [
+      "sinushack:moan3"
+    ]
+  },
+  "moan4": {
+    "sounds": [
+      "sinushack:moan4"
+    ]
+  },
+  "skeet": {
+    "sounds": [
+      "sinushack:skeet"
+    ]
+  },
+  "orthodox": {
+    "sounds": [
+      "sinushack:orthodox"
+    ]
+  },
+  "boolean": {
+    "sounds": [
+      "sinushack:boolean"
+    ]
+  },
+  "scroll": {
+    "sounds": [
+      "sinushack:scroll"
+    ]
+  },
+  "swipein": {
+    "sounds": [
+      "sinushack:swipein"
+    ]
+  },
+  "swipeout": {
+    "sounds": [
+      "sinushack:swipeout"
+    ]
+  },
+  "pmsound": {
+    "sounds": [
+      "sinushack:pmsound"
+    ]
+  },
+  "rifk": {
+    "sounds": [
+      "sinushack:rifk"
+    ]
+  },
+  "cutie": {
+    "sounds": [
+      "sinushack:cutie"
+    ]
+  }
+}
